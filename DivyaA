@@ -1,3 +1,8 @@
 Hi guys, this is my test practice file
+<<<<<<< HEAD
 Hi Divya, Welcome to devops dear
 Hi vamsi, how are you
+=======
+
+making changes to file
+>>>>>>> aaddc66306eba884bb144e2c166dca067a66e87d
