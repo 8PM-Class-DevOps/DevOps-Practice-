@@ -1,8 +1,14 @@
 Hi 
 This is new branch
 
+<<<<<<< HEAD
 
 ithis is third line.
 
 this is forth line.
 
+=======
+this is third line.
+
+this is forth line.
+>>>>>>> dev/chandrika
